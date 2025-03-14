@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+requests
+selenium
+webdriver-manager
+concurrent.futures
